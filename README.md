@@ -1,27 +1,71 @@
+# 👋 Hi, I'm Rahul Gaur  
 
-### 👋 Hi, I’m Rahul Gaur 👋
+🎓 MCA Post Graduate | 💻 Backend / Full Stack Developer | 🚀 Passionate about building scalable and user-friendly applications  
 
-[Gwalior]
+---
 
- [my project Link] (https://travelsphere-2.onrender.com) 
+## 🛠 Tech Stack  
+- **Languages:** JavaScript, Core Java  
+- **Frameworks:** Node.js, Express.js, Angular, React  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Prisma  
+- **Tools:** VS Code, Postman, Redis, BullMQ, Cloudinary, Git/GitHub  
+- **Concepts:** REST APIs, MVC Architecture, Authentication, Payment Integration, DSA, DBMS, OOPS  
+
+---
+
+## 💼 Experience  
+
+- **Backend Developer (Full-time) | Nerotix Technologies Pvt. Ltd. | Gwalior | Aug 2025 – Present**  
+  - Contributing to a **B2B eKYC platform** providing APIs for **PAN, Aadhaar, and government services** for MPOnline customers.  
+  - Built **secure user wallets** with multiple payment gateways (PhonePe, Razorpay, Paytm, etc.).  
+  - Integrated **Redis + BullMQ** for OTPs, notifications, and background jobs.  
+  - Designed a **dynamic admin backend** with transaction logging, auditing, and product/category management.  
+
+- **Full Stack Developer Intern | Gravit InfoSystems Pvt. Ltd. | Gwalior | Mar 2025 – May 2025**  
+  - Built **Angular-based UIs**, handled **Reactive Forms, State Management**, and API integration.  
+  - Worked with **Cloudinary** for image storage and management.  
+
+- **Full Stack Developer Intern | EY Global Delivery Services | Remote | Feb 2024 – Apr 2024**  
+  - Developed a **Car Rental Web App** with authentication, car browsing, booking system, and admin panel.  
+  - Followed **Agile practices** and used Git for version control.  
+
+- **Android Developer Intern | Google for Developers | EduSkills | Remote | Jul 2024 – Sep 2024**  
+  - Built mobile apps, gained exposure to **Android ecosystem** and app lifecycle.  
+
+- **Cybersecurity Intern | Palo Alto Networks | EduSkills | Remote | Apr 2024 – Jun 2024**  
+  - Learned **security fundamentals**, auditing practices, and secure application development.  
+
+---
+
+## 📂 Projects  
+
+### 🔹 MemoryMentor Application  
+- Tech: Angular, Node.js, Express.js, MongoDB, JWT, Stripe Payment Gateway  
+- Online test application to enhance memory skills with **subscription-based access**.  
+- Implemented **JWT-based authentication**, role-based dashboards, and **Stripe integration**.  
+
+### 🔹 TravelSphere Website  
+- Tech: JavaScript, Node.js, Express.js, MongoDB, HTML, CSS, Bootstrap  
+- Full-stack platform for **tour & hotel bookings**.  
+- Integrated **MongoDB** for secure storage, tested APIs with **Postman**, used **Cloudinary** for media management.  
+
+---
+[my project Link] (https://travelsphere-2.onrender.com) 
 
  [my project Link] (https://quirkyroomie-project-1.onrender.com/)
 
+## 📫 Connect With Me  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rahul-gaur-566964220)  
+- 💻 [GitHub](https://github.com/rgaud4299)  
+- ✉️ rgaud4299@gmail.com  
 
-I'm passionate about [ web development, Angular, Node.js, Express.js].
+### 👋 Hi, I’m Rahul Gaur 👋
 
-I'm currently working on [Angular,Node.js and Express.js framework].
 
-🤝 I’m seeking help to dive deeper into advanced topics in JavaScript and Angular, and to improve how I design backend systems.
 
-🌱 I’m learning how to use Angular and Node.js to create user-friendly and innovative applications.
+ 
 
-💬 Feel free to ask me about web development, Java, Angular and Node.js.
----
 
-**Connect with me:**
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rahul-gaur-566964220)
 
 
 ---
