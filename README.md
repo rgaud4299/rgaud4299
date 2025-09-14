@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rahul Gaur  
 
-🎓 MCA Post Graduate | 💻 Backend / Full Stack Developer | 🚀 Passionate about building scalable and user-friendly applications  
+🎓 MCA Post Graduate | 💻 Backend / MERN / MEAN  Stack Developer | 🚀 Passionate about building scalable and user-friendly applications  
 
 ---
 
